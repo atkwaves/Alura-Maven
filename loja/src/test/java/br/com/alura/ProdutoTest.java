@@ -1,6 +1,6 @@
-package br.com.alura.loja;
+package br.com.alura;
 
-import static org.junit.Assert.fail;
+import static org.junit.Assert.*;
 
 import org.junit.Test;
 
